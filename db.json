@@ -1,18 +1,20 @@
 {
   "scripts": [
     {
-      "id" : "8fa87c62-622d-45e1-8462-eeab2524a9ff",
-      "title": "How We Dealt with the Coronavirus Quarantine?",
-      "authors": ["Kevin Tatar"],
+      "scriptId": "8fa87c62-622d-45e1-8462-eeab2524a9ff",
+      "scriptTitle": "How We Dealt with the Coronavirus Quarantine?",
+      "scriptAuthors": ["Kevin Tatar"],
       "thumbnail": "",
-      "lastModifed": 1603174775067
+      "lastModifed": 1603174775067,
+      "colorCode": "#FF5928"
     },
     {
-      "id" : "5114165b-dd87-4599-a2ed-17773f3588c1",
-      "title": "I Threw Myself a Quarantine Birthday Party",
-      "authors": ["Kevin Tatar"],
+      "scriptId" : "5114165b-dd87-4599-a2ed-17773f3588c1",
+      "scriptTitle": "I Threw Myself a Quarantine Birthday Party",
+      "scriptAuthors": ["Kevin Tatar"],
       "thumbnail": "",
-      "lastModifed": 1603174766231
+      "lastModifed": 1603174766231,
+      "colorCode": "#286CFF"
     }
   ],
   "profile": {
