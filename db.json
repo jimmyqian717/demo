@@ -1,9 +1,11 @@
 {
-  "scripts": [
+  "plans": [
     {
-      "scriptId": "8fa87c62-622d-45e1-8462-eeab2524a9ff",
-      "scriptTitle": "How We Dealt with the Coronavirus Quarantine?",
-      "scriptAuthors": ["Kevin Tatar"],
+      "planId": "8fa87c62-622d-45e1-8462-eeab2524a9ff",
+      "planTitle": "How We Dealt with the Coronavirus Quarantine?",
+      "planDesc": "",
+      "planAuthors": ["Kevin Tatar"],
+      "planDuration": 0,
       "thumbnail": "",
       "lastModifed": 1603174775067,
       "colorCode": "#FF5928",
