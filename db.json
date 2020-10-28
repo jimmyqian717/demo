@@ -3,9 +3,9 @@
     {
       "planId": "8fa87c62-622d-45e1-8462-eeab2524a9ff",
       "planTitle": "How We Dealt with the Coronavirus Quarantine?",
-      "planDesc": "",
+      "planDesc": "A video about how my girlfriend and I dealt with the life of quarantine in Romania.",
       "planAuthors": ["Kevin Tatar"],
-      "planDuration": 0,
+      "planDuration": 600000,
       "thumbnail": "",
       "lastModifed": 1603174775067,
       "colorCode": "#FF5928",
@@ -14,6 +14,13 @@
         {
           "sceneName": "Intro Shot",
           "sceneDesc": "Introduction shot of the video.",
+          "sceneDuration": 5000,
+          "sceneProps": ["Face mask", "Hand sanitizer"],
+          "isSceneComplete": false
+        },
+        {
+          "sceneName": "B-roll",
+          "sceneDesc": "B-roll on travelling back to Romania.",
           "sceneDuration": 5000,
           "sceneProps": ["Face mask", "Hand sanitizer"],
           "isSceneComplete": false
