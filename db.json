@@ -6,15 +6,17 @@
       "scriptAuthors": ["Kevin Tatar"],
       "thumbnail": "",
       "lastModifed": 1603174775067,
-      "colorCode": "#FF5928"
-    },
-    {
-      "scriptId" : "5114165b-dd87-4599-a2ed-17773f3588c1",
-      "scriptTitle": "I Threw Myself a Quarantine Birthday Party",
-      "scriptAuthors": ["Kevin Tatar, Cristina Nistor"],
-      "thumbnail": "",
-      "lastModifed": 1603174766231,
-      "colorCode": "#286CFF"
+      "colorCode": "#FF5928",
+      "isPlanCompleted": false,
+      "sceneSet": [
+        {
+          "sceneName": "Intro Shot",
+          "sceneDesc": "Introduction shot of the video.",
+          "sceneDuration": 5000,
+          "sceneProps": ["Face mask", "Hand sanitizer"],
+          "isSceneComplete": false
+        }
+      ]
     }
   ],
   "profile": {
