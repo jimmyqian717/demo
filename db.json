@@ -1,27 +1,28 @@
 {
-  "plans": [
+  "projects": [
     {
-      "planId": "8fa87c62-622d-45e1-8462-eeab2524a9ff",
-      "planTitle": "How We Dealt with the Coronavirus Quarantine?",
-      "planDesc": "A video about how my girlfriend and I dealt with the life of quarantine in Romania.",
-      "planAuthors": ["Kevin Tatar"],
-      "planDuration": 600000,
+      "projectId": "8fa87c62-622d-45e1-8462-eeab2524a9ff",
+      "projectTitle": "How We Dealt with the Coronavirus Quarantine?",
+      "projectDesc": "A video about how my girlfriend and I dealt with the life of quarantine in Romania.",
+      "projectAuthors": ["Kevin Tatar"],
+      "projectDuration": 600000,
       "thumbnail": "",
+      "projectDue": 1603899577681,
       "lastModifed": 1603174775067,
       "colorCode": "#FF5928",
-      "isPlanCompleted": false,
+      "isprojectCompleted": false,
       "sceneSet": [
         {
           "sceneName": "Intro Shot",
           "sceneDesc": "Introduction shot of the video.",
           "sceneDuration": 5000,
-          "sceneProps": ["Face mask", "Hand sanitizer"],
+          "sceneProps": [],
           "isSceneComplete": false
         },
         {
           "sceneName": "B-roll",
           "sceneDesc": "B-roll on travelling back to Romania.",
-          "sceneDuration": 5000,
+          "sceneDuration": 10000,
           "sceneProps": ["Face mask", "Hand sanitizer"],
           "isSceneComplete": false
         }
