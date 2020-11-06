@@ -10,7 +10,91 @@
       "projectDue": 1603899577681,
       "lastModified": 1603174775067,
       "colorCode": "#FF5928",
+      "isprojectCompleted": true,
+      "sceneSet": [
+        {
+          "sceneName": "Intro Shot",
+          "sceneDesc": "Introduction shot of the video.",
+          "sceneDuration": 5000,
+          "sceneProps": [],
+          "isSceneComplete": false
+        },
+        {
+          "sceneName": "B-roll",
+          "sceneDesc": "B-roll on travelling back to Romania.",
+          "sceneDuration": 10000,
+          "sceneProps": ["Face mask", "Hand sanitizer"],
+          "isSceneComplete": false
+        }
+      ]
+    },
+    {
+      "projectId": "1c45018d-89bc-4285-9097-f4a36b30a397",
+      "projectTitle": "How To Make a Viral TikTok (ft. Bonjee)?",
+      "projectDesc": "A video about how to make a viral video on Tiktok.",
+      "projectAuthors": ["Kevin Tatar", "Bonjee"],
+      "projectDuration": 600000,
+      "thumbnail": "",
+      "projectDue": 1603899577681,
+      "lastModified": 1603174775067,
+      "colorCode": "#FF5928",
       "isprojectCompleted": false,
+      "sceneSet": [
+        {
+          "sceneName": "Intro Shot",
+          "sceneDesc": "Introduction shot of the video.",
+          "sceneDuration": 5000,
+          "sceneProps": [],
+          "isSceneComplete": false
+        },
+        {
+          "sceneName": "B-roll",
+          "sceneDesc": "B-roll on travelling back to Romania.",
+          "sceneDuration": 10000,
+          "sceneProps": ["Face mask", "Hand sanitizer"],
+          "isSceneComplete": false
+        }
+      ]
+    },
+    {
+      "projectId": "fd33adf1-60c9-42a6-9213-2d4d9bf4bdf9",
+      "projectTitle": "I Threw Myself a Quarantine Birthday Party",
+      "projectDesc": "A video about my birthday party in quarantine.",
+      "projectAuthors": ["Kevin Tatar", "Cristina Nistor"],
+      "projectDuration": 400000,
+      "thumbnail": "",
+      "projectDue": 1603899577681,
+      "lastModified": 1603174775067,
+      "colorCode": "#004DCF",
+      "isprojectCompleted": false,
+      "sceneSet": [
+        {
+          "sceneName": "Intro Shot",
+          "sceneDesc": "Introduction shot of the video.",
+          "sceneDuration": 5000,
+          "sceneProps": [],
+          "isSceneComplete": false
+        },
+        {
+          "sceneName": "B-roll",
+          "sceneDesc": "B-roll on travelling back to Romania.",
+          "sceneDuration": 10000,
+          "sceneProps": ["Face mask", "Hand sanitizer"],
+          "isSceneComplete": false
+        }
+      ]
+    },
+    {
+      "projectId": "3f3a0367-715e-489c-a265-bcb820c7b83e",
+      "projectTitle": "I Brought My Canadian Friend to ROMANIA",
+      "projectDesc": "A video about me bringing my Canadian friend to Romania.",
+      "projectAuthors": ["Kevin Tatar", "Cristina Nistor"],
+      "projectDuration": 400000,
+      "thumbnail": "",
+      "projectDue": 1603899577681,
+      "lastModified": 1603174775067,
+      "colorCode": "#008B02",
+      "isprojectCompleted": true,
       "sceneSet": [
         {
           "sceneName": "Intro Shot",
