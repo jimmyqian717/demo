@@ -1,32 +1,34 @@
-[
-    {
-        "author": "Jimmy Qian",
-        "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id ornare diam. Fusce ornare in nunc in varius. Cras rutrum fermentum diam, at porta leo maximus sed. Duis non tempus ipsum. Integer fermentum finibus cursus. Nam non pellentesque erat. Quisque cursus, lorem ut porttitor elementum, nulla magna vulputate ante, in tempus dolor tellus vel ante."
-    },
-    {
-        "author": "Mia Zhang",
-        "title": "qui est esse",
-        "body": "Nunc hendrerit fringilla erat sit amet mattis. Etiam maximus ante sit amet lacus vulputate, in finibus nisl dapibus. Nam cursus facilisis urna, in elementum nisl interdum eget. Vivamus vitae sagittis eros. Nulla fermentum, ipsum non posuere facilisis, erat libero auctor enim, et vehicula metus libero sit amet mauris. Donec eu accumsan nisl, quis iaculis ligula. Donec bibendum lobortis dui, ut accumsan odio vestibulum sit amet. Etiam vel nisi id mauris hendrerit maximus. Aliquam efficitur molestie maximus."
-    },
-    {
-        "author": "Kevin Tatar",
-        "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-        "body": "Fusce vitae placerat ex. Aliquam non lobortis purus. Praesent ac nunc at leo tempor iaculis. Quisque at arcu nec est interdum eleifend. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras rhoncus faucibus dolor vel cursus. Fusce efficitur lacinia ipsum dictum feugiat. Cras at odio interdum, hendrerit arcu nec, bibendum justo. Sed enim justo, consectetur non dolor sed, lobortis faucibus lorem. Phasellus eu risus odio. Nulla leo ex, imperdiet at eleifend quis, porta ac sapien. Proin pellentesque lacus nec urna commodo suscipit eget a lectus. Ut id dui erat."
-    },
-    {
-        "author": "Jimmy Qian",
-        "title": "eum et est occaecati",
-        "body": "Phasellus viverra turpis a enim varius viverra id at magna. Mauris tortor urna, malesuada nec tincidunt ac, faucibus nec nisi. Quisque ornare eget ligula eget faucibus. Cras diam leo, cursus at odio vitae, faucibus accumsan sapien. In ultrices, nisi eu suscipit euismod, odio neque suscipit nulla, ac aliquet neque dolor eu lacus. Pellentesque convallis posuere varius. Cras faucibus sem enim, ac malesuada arcu mollis et. Proin placerat viverra vehicula."
-    },
-    {
-        "author": "Cristina Nistor",
-        "title": "nesciunt quas odio",
-        "body": "Cras facilisis, dui ac pulvinar tincidunt, libero sapien scelerisque risus, eget tincidunt ante nisi nec leo. Morbi id iaculis ante. Nulla pharetra elit ac neque tempor, a vulputate sapien maximus. Nullam placerat non libero in volutpat. Etiam sollicitudin hendrerit magna, eget gravida felis posuere at. Ut tincidunt risus nisi, at vehicula nunc mattis quis."
-    },
-    {
-        "author": "Mia Zhang",
-        "title": "dolorem eum magni eos aperiam quia",
-        "body": "Praesent viverra elit fringilla nulla pharetra rhoncus. Etiam commodo laoreet maximus. Vivamus facilisis ex ante, quis rutrum tortor ullamcorper id. Vivamus consectetur tempor pretium. Aenean at vestibulum quam. Donec porttitor aliquet sapien vitae lobortis. In velit tellus, commodo in placerat pellentesque, viverra quis elit. Curabitur ex nibh, dignissim ut fringilla nec, viverra eu sem. Donec volutpat porttitor est vel elementum."
-    }
-]
+{
+    "posts": [
+        {
+            "author": "Jimmy Qian",
+            "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id ornare diam. Fusce ornare in nunc in varius. Cras rutrum fermentum diam, at porta leo maximus sed. Duis non tempus ipsum. Integer fermentum finibus cursus. Nam non pellentesque erat. Quisque cursus, lorem ut porttitor elementum, nulla magna vulputate ante, in tempus dolor tellus vel ante."
+        },
+        {
+            "author": "Mia Zhang",
+            "title": "qui est esse",
+            "body": "Nunc hendrerit fringilla erat sit amet mattis. Etiam maximus ante sit amet lacus vulputate, in finibus nisl dapibus. Nam cursus facilisis urna, in elementum nisl interdum eget. Vivamus vitae sagittis eros. Nulla fermentum, ipsum non posuere facilisis, erat libero auctor enim, et vehicula metus libero sit amet mauris. Donec eu accumsan nisl, quis iaculis ligula. Donec bibendum lobortis dui, ut accumsan odio vestibulum sit amet. Etiam vel nisi id mauris hendrerit maximus. Aliquam efficitur molestie maximus."
+        },
+        {
+            "author": "Kevin Tatar",
+            "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+            "body": "Fusce vitae placerat ex. Aliquam non lobortis purus. Praesent ac nunc at leo tempor iaculis. Quisque at arcu nec est interdum eleifend. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras rhoncus faucibus dolor vel cursus. Fusce efficitur lacinia ipsum dictum feugiat. Cras at odio interdum, hendrerit arcu nec, bibendum justo. Sed enim justo, consectetur non dolor sed, lobortis faucibus lorem. Phasellus eu risus odio. Nulla leo ex, imperdiet at eleifend quis, porta ac sapien. Proin pellentesque lacus nec urna commodo suscipit eget a lectus. Ut id dui erat."
+        },
+        {
+            "author": "Jimmy Qian",
+            "title": "eum et est occaecati",
+            "body": "Phasellus viverra turpis a enim varius viverra id at magna. Mauris tortor urna, malesuada nec tincidunt ac, faucibus nec nisi. Quisque ornare eget ligula eget faucibus. Cras diam leo, cursus at odio vitae, faucibus accumsan sapien. In ultrices, nisi eu suscipit euismod, odio neque suscipit nulla, ac aliquet neque dolor eu lacus. Pellentesque convallis posuere varius. Cras faucibus sem enim, ac malesuada arcu mollis et. Proin placerat viverra vehicula."
+        },
+        {
+            "author": "Cristina Nistor",
+            "title": "nesciunt quas odio",
+            "body": "Cras facilisis, dui ac pulvinar tincidunt, libero sapien scelerisque risus, eget tincidunt ante nisi nec leo. Morbi id iaculis ante. Nulla pharetra elit ac neque tempor, a vulputate sapien maximus. Nullam placerat non libero in volutpat. Etiam sollicitudin hendrerit magna, eget gravida felis posuere at. Ut tincidunt risus nisi, at vehicula nunc mattis quis."
+        },
+        {
+            "author": "Mia Zhang",
+            "title": "dolorem eum magni eos aperiam quia",
+            "body": "Praesent viverra elit fringilla nulla pharetra rhoncus. Etiam commodo laoreet maximus. Vivamus facilisis ex ante, quis rutrum tortor ullamcorper id. Vivamus consectetur tempor pretium. Aenean at vestibulum quam. Donec porttitor aliquet sapien vitae lobortis. In velit tellus, commodo in placerat pellentesque, viverra quis elit. Curabitur ex nibh, dignissim ut fringilla nec, viverra eu sem. Donec volutpat porttitor est vel elementum."
+        }
+    ]
+}
